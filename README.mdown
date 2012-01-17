@@ -1,1 +1,3 @@
 Example Android application that demonstrates a line graph widget.
+
+[![](https://github.com/drakenclimber/AndroidGraphExample/blob/20a967f3eed36cc796d9c8a96c222e5b11f20e5b/screenshots/screenshot1.png?raw=true)](https://github.com/drakenclimber/AndroidGraphExample/blob/20a967f3eed36cc796d9c8a96c222e5b11f20e5b/screenshots/screenshot1.png?raw=true)
